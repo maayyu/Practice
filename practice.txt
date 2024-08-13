@@ -4,3 +4,5 @@ Hello
 world
 
 Japan　Sunny
+
+リモートでも編集
